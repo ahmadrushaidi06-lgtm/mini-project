@@ -17,5 +17,4 @@ Sg. Perai di Desa Murni Sg. Dua ,0.95
 Sg. Tembus di Pintu Air Sg. Tembus ,0.34
 Sg. Kerian di Kg. Kebun Baru ,1.50
 Sg. Air Itam di Lorong Batu Lanchang ,4.19
-
-Sg. Kerian di Kg. Tok Mandin,0.58
+Sg. Kerian di Kg. Tok Mandin,0.5

@@ -1,20 +1,21 @@
-Station Name,Water Level (m)
-Sg. Pinang di Jalan P.Ramlee (F2),0.69
-Sg. Air Itam di Jalan Scotland (F2),4.62
-Kolam Takungan Sg. Dondang M/S (F2),15.44
-Kolam Takungan Sg. Dondang U/S (F2),20.05
-Kolam Takungan Sg. Dondang D/S (F2),13.85
-Muara Sg. Pinang S18 (F2),0.47
-Sg. Juru di JPS SPT (F2),0.62
-Sg. Junjung di Simpang Ampat (F2),0.81
-Sg. Kulim di Kg. Labuh Banting (F2),0.29
-Sg. Jawi di Kg. Sethu (F2),2.50
-Tidal Control Gate Kebun Baru (F2),0.31
-Muara Sg. Jawi (F2),-0.26
-Sg. Kulim di Ara Kuda (F2),5.87
-Sg. Muda di Bumbung Lima (F2),2.22
-Sg. Perai di Desa Murni Sg. Dua (F2),0.95
-Sg. Tembus di Pintu Air Sg. Tembus (F2),0.34
-Sg. Kerian di Kg. Kebun Baru (F2),1.50
-Sg. Air Itam di Lorong Batu Lanchang (F2),4.19
-Sg. Kerian di Kg. Tok Mandin (F2),0.58
+Station Name, Water Level (m)
+Sg. Pinang di Jalan P.Ramlee ,0.69
+Sg. Air Itam di Jalan Scotland ,4.62
+Kolam Takungan Sg. Dondang M/S ,15.44
+Kolam Takungan Sg. Dondang U/S ,20.05
+Kolam Takungan Sg. Dondang D/S ,13.85
+Muara Sg. Pinang S18 ,0.47
+Sg. Juru di JPS SPT ,0.62
+Sg. Junjung di Simpang Ampat ,0.81
+Sg. Kulim di Kg. Labuh Banting ,0.29
+Sg. Jawi di Kg. Sethu,2.50
+Tidal Control Gate Kebun Baru ,0.31
+Muara Sg. Jawi ,-0.26
+Sg. Kulim di Ara Kuda 5.87
+Sg. Muda di Bumbung Lima ,2.22
+Sg. Perai di Desa Murni Sg. Dua ,0.95
+Sg. Tembus di Pintu Air Sg. Tembus ,0.34
+Sg. Kerian di Kg. Kebun Baru ,1.50
+Sg. Air Itam di Lorong Batu Lanchang ,4.19
+
+Sg. Kerian di Kg. Tok Mandin,0.58

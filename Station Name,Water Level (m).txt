@@ -11,10 +11,11 @@ Sg. Kulim di Kg. Labuh Banting ,0.29
 Sg. Jawi di Kg. Sethu,2.50
 Tidal Control Gate Kebun Baru ,0.31
 Muara Sg. Jawi ,-0.26
-Sg. Kulim di Ara Kuda 5.87
+Sg. Kulim di Ara Kuda ,5.87
 Sg. Muda di Bumbung Lima ,2.22
 Sg. Perai di Desa Murni Sg. Dua ,0.95
 Sg. Tembus di Pintu Air Sg. Tembus ,0.34
 Sg. Kerian di Kg. Kebun Baru ,1.50
 Sg. Air Itam di Lorong Batu Lanchang ,4.19
 Sg. Kerian di Kg. Tok Mandin,0.5
+
